@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = moisesns28@hotmail.com
+	name = Moises Nissan
